@@ -1,1 +1,2 @@
 # Dictionary-Bookmark
+Basic idea:
