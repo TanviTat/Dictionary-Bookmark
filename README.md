@@ -13,6 +13,17 @@ Why: As a bookworm, I am always reading across words that I don't know the defin
 kep with you while reading, anad has a built-in dictionary, migth just be the perfect tool to pull out.
 
 Materials required: 
+Raspberry Pi Pico 2 
+0.96 OLED display (scren)
+4 by 4 matrix keyboard
+breadboard 
+Switch
+USB cable
+3.7 Lipo battery
+Lipo charging board
+Small magnets 
+Tiny hinges
+Case for everything
 
 
 
