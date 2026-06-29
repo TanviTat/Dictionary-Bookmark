@@ -133,3 +133,60 @@ Screenshots I took of the parts that I need Hack Cub to fund me (not the ones I 
 ![image](https://cdn.hackclub.com/019ee9e2-7146-7b04-88bd-f3277b944cfe/IMG_2321.jpeg)
 ![image](https://cdn.hackclub.com/019ee9e2-c285-7fa3-af2f-39bb923cab7a/IMG_2323.jpeg)
 ![image](https://cdn.hackclub.com/019ee9e3-011d-75e5-b1a8-384c0e6028eb/IMG_2325.jpeg)
+
+Journal entry four:
+Today, I spent about one hour uploading and organizing my project materials in my GitHub repository. I added documents, 
+images, planning notes, and other files related to my Smart Dictionary Bookmark project so that everything would be stored 
+in one place.
+
+I organized the files into sections to make them easier to find and update later. This helped me keep track of my research, 
+project plans, parts list, and journal entries.
+
+By the end of the session, I had all of my current project work uploaded to GitHub and organized for future development 
+and documentation.
+
+What my current repository looks like after working today;
+![image](https://cdn.hackclub.com/019eea20-4edf-743c-ab4e-6365586f66fd/IMG_2338.png)
+![image](https://cdn.hackclub.com/019eea20-f9e7-781b-b688-d866065cad39/IMG_2339.png)
+![image](https://cdn.hackclub.com/019eea21-6b66-72b3-9b5a-78a71d6ff4e8/IMG_2340.png)
+![image](https://cdn.hackclub.com/019eea21-a64d-784b-aa14-b04707e71e3d/IMG_2341.png)
+
+Journal entry five: 
+Today, I worked on diagrams, drawings, models, and circuit layouts for my Smart Dictionary Bookmark project. 
+I planned where different parts of the bookmark will go, such as the display, keypad, battery, and microcontroller. 
+I also made sketches showing both the outside of the bookmark and how the parts will connect inside.
+
+At the beginning, I ran into some technical issues on my device, so I switched to a different device so I could continue
+ working. (This was not shown in the time-lapse)
+
+After finishing my drawings and layouts, I took screenshots of them and uploaded them to ChatGPT. I used ChatGPT to help 
+straighten some of the lines, turn my handwritten labels into typed text, and combine multiple diagrams into organized 
+collages. This made the designs easier to read and understand.
+
+By the end of the session, I had a set of organized diagrams and circuit layouts that will help me as I start building 
+the project.
+
+Time-Lapse of me working (after technical issues got resolved) : ![video](https://cdn.hackclub.com/019eeee6-8609-77fa-82df-fc7f09e67ae1/20260622_134720_34448527134954.mp4)
+
+Picture  of the end 2D model: ![image](https://cdn.hackclub.com/019eeee7-6df2-7a70-976c-7d4240fe0de0/IMG_2343.jpeg)
+
+Journal entry six: 
+
+Today, I spent about two hours learning more about circuits and wiring for my Smart Dictionary Bookmark project. 
+I researched how the different components connect together and corrected some of my earlier wiring plans after I found 
+better ways to organize the circuit.
+
+I also wrote a short explanation for the purpose of each wire so I could understand why every connection is needed. 
+Then, I mapped the flow of electricity through the circuit, showing where power enters the device, how it travels through 
+each component, and where it returns. This gave me a better understanding of how the bookmark will work as a complete system.
+
+After that, I continued improving my diagrams by planning where each component will be placed inside the bookmark. 
+I made drawings showing different layout ideas and explained why certain parts should be placed in specific positions 
+to keep the design compact and organized. I explained where everything is in different positions. 
+
+By the end of the session, I had a clearer wiring plan, a better understanding of the flow of electricity, 
+and updated diagrams that will help me build the first prototype.
+
+Pictures:
+![image](https://cdn.hackclub.com/019f0d4d-5da2-75a4-bcbc-68245ac689a0/IMG_2363.jpeg)![image](https://cdn.hackclub.com/019f0d4e-09a5-703b-874d-c1cd96731581/IMG_2362.jpeg)
+![image](https://cdn.hackclub.com/019f0d4e-92b6-71a0-b3c5-380542ebb635/IMG_2361.jpeg)
