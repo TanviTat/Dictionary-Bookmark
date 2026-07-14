@@ -12,6 +12,8 @@ definition of the word on your screen.
 Why: As a bookworm, I am always reading across words that I don't know the definition of. I figured that a device that you could 
 kep with you while reading, anad has a built-in dictionary, migth just be the perfect tool to pull out.
 
+Demo URL: https://youtu.be/qOCurON6ckk
+
 Materials required: 
 Raspberry Pi Pico 2 
 0.96 OLED display (scren)
@@ -190,3 +192,15 @@ and updated diagrams that will help me build the first prototype.
 Pictures:
 ![image](https://cdn.hackclub.com/019f0d4d-5da2-75a4-bcbc-68245ac689a0/IMG_2363.jpeg)![image](https://cdn.hackclub.com/019f0d4e-09a5-703b-874d-c1cd96731581/IMG_2362.jpeg)
 ![image](https://cdn.hackclub.com/019f0d4e-92b6-71a0-b3c5-380542ebb635/IMG_2361.jpeg)
+
+Journal entry seven;
+ Today I spent 2 hours designing and animating a 3D model for my dictionary bookmark using Prisma3D and AI. First, 
+I modeled the closed bookmark position. Next, I designed frames for each letter being typed, leading to the final result. 
+I exported these models and uploaded them to ChatGPT, prompting it to generate a smooth transition animation. 
+After downloading the animated file back into Prisma3D to check the rigging, I recorded a mini intro and prepped the 
+footage also adding my animated model . Finally, I uploaded the video demo of the dictionary bookmark to YouTube and finalized =
+my demo URL for submission.
+
+This is a video of my 3D model animation : ![video](https://cdn.hackclub.com/019f6075-1350-7872-ab31-f84b7d0b21a2/output.mp4)
+
+Here is a link to my demo: https://youtu.be/qOCurON6ckk
