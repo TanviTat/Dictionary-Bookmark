@@ -204,3 +204,43 @@ my demo URL for submission.
 This is a video of my 3D model animation : ![video](https://cdn.hackclub.com/019f6075-1350-7872-ab31-f84b7d0b21a2/output.mp4)
 
 Here is a link to my demo: https://youtu.be/qOCurON6ckk
+
+
+Changes and clarifications based on reviewers note: 
+ The steps I will take in order to build my product:
+## Steps I Will Follow to Build My Dictionary Bookmark
+
+1. Plan where all the parts will go.
+
+2. Connect the Raspberry Pi Pico 2 to the OLED screen.
+
+3. Test the screen to make sure it can show words.
+
+4. Connect the matrix keypad.
+
+5. Test every button on the keypad.
+
+6. Build the full circuit on a breadboard.
+
+7. Write the code that lets the user type a word.
+
+8. Add words and definitions to the dictionary.
+
+9. Write the code that finds the word and shows its definition.
+
+10. Add buttons for delete, clear, search, and scrolling.
+
+11. Test the whole project and fix any problems.
+
+12. Connect the battery, charging board, and power switch.
+
+13. Move the circuit from the breadboard to a smaller permanent board.
+
+14. Put all the parts inside the bookmark case.
+
+15. Test the finished bookmark inside a book.
+
+16. Take pictures and videos and update the GitHub repo.
+
+Clear wiring diagrams :
+
