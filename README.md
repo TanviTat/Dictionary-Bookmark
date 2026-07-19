@@ -205,10 +205,56 @@ This is a video of my 3D model animation : ![video](https://cdn.hackclub.com/019
 
 Here is a link to my demo: https://youtu.be/qOCurON6ckk
 
+Journal entry eigth:
+Today when I was looking over my project that I had recently submitted for review, I saw that there was a reviewer note , that said that I had to add firmware , clearly show wiring and add step by step instructions on how I would assemble my dictionary bookmark. So I started of by emailing hack club about if they knew any good websites for me to learn how to align my code with my wiring so i can do the firmware. Then I did a little more research and accurately did my wiring diagrams, and I also made a clear typed out version for my readme. After that I mapped out the steps I am going to take in order to build my dictionary bookmark and typed it out to update my readme . I mostly just took my current wiring diagrams  and refined them to  give them to hack club with the help of AI .Then I updated my readme and submitted for review, with a reviewers note that I will present my firmware in a bit, and requested them to review what I have provided already. 
+
+Pictures of my diagrams: ![image](https://cdn.hackclub.com/019f7aa1-bc66-7460-b68a-37ae9bd9d883/IMG_2360.jpeg) 
+![image](https://cdn.hackclub.com/019f7aa2-1a9f-794c-bdcf-3763791fb9b8/IMG_2359.jpeg)
+
+Steps I am going to take: 
+1. Plan where all the parts will go.
+
+2. Connect the Raspberry Pi Pico 2 to the OLED screen.
+
+3. Test the screen to make sure it can show words.
+
+4. Connect the matrix keypad.
+
+5. Test every button on the keypad.
+
+6. Build the full circuit on a breadboard.
+
+7. Write the code that lets the user type a word.
+
+8. Add words and definitions to the dictionary.
+
+9. Write the code that finds the word and shows its definition.
+
+10. Add buttons for delete, clear, search, and scrolling.
+
+11. Test the whole project and fix any problems.
+
+12. Connect the battery, charging board, and power switch.
+
+13. Move the circuit from the breadboard to a smaller permanent board.
+
+14. Put all the parts inside the bookmark case.
+
+15. Test the finished bookmark inside a book.
+
+16. Take pictures and videos and update the GitHub repo.
+
+Picture of my updated readme (the updated part) :
+![image](https://cdn.hackclub.com/019f7aa9-6c92-7e92-9dea-8dad9d1313c8/IMG_2426.png)
+![image](https://cdn.hackclub.com/019f7aa9-9c27-7a76-b83e-c7dd829baa58/IMG_2427.png)
+
+Picture of my drafted reviewers note (I wrote it in notion) :
+![image](https://cdn.hackclub.com/019f7aad-8fb0-73dc-b068-798004443491/IMG_2429.png)
+
+
 
 Changes and clarifications based on reviewers note: 
  The steps I will take in order to build my product:
-## Steps I Will Follow to Build My Dictionary Bookmark
 
 1. Plan where all the parts will go.
 
@@ -243,4 +289,6 @@ Changes and clarifications based on reviewers note:
 16. Take pictures and videos and update the GitHub repo.
 
 Clear wiring diagrams :
+ ![image](https://cdn.hackclub.com/019f7aa1-bc66-7460-b68a-37ae9bd9d883/IMG_2360.jpeg) 
+![image](https://cdn.hackclub.com/019f7aa2-1a9f-794c-bdcf-3763791fb9b8/IMG_2359.jpeg)
 
